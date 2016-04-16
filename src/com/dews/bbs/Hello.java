@@ -75,7 +75,7 @@ public class Hello {
             String stm = "INSERT INTO users(username, admin, password) VALUES(?, ?, ?)";
             pst = con.prepareStatement(stm);
             pst.setString(1, user.getUsername());
-            pst.setBoolean(2,true);
+            pst.setBoolean(2,false);
             pst.setString(3, pw_hash);
             pst.executeUpdate();
             System.out.println("Added: " + user.getUsername() + " password hash: " + pw_hash);
@@ -120,14 +120,14 @@ public class Hello {
 	  while (rs.next())
 	  {
 		  Board a = new Board();
-		  a.setName(rs.getString(3));
-		  a.setDesc(rs.getString(2));
+		  a.setName(rs.getString(2));
+		  a.setDesc(rs.getString(3));
 		  a.setId(rs.getInt(1));
 		  boards.add(a);
 	     System.out.print("Column 1 returned ");
-	     System.out.println(rs.getString(3));
+	     System.out.println(rs.getString(2));
 	     
-	     output.append(rs.getString(3) + "\n");
+	     output.append(rs.getString(2) + "\n");
 	     
 	  }
 	  rs.close();

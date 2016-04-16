@@ -1,7 +1,5 @@
 package com.dews.bbs;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
 public class Board {
 	private String name;
 	private String description;

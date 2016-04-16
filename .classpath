@@ -8,36 +8,36 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/api/javax.ws.rs-api-2.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/aopalliance-repackaged-2.4.0-b34.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/asm-debug-all-5.0.4.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/hk2-api-2.4.0-b34.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/hk2-locator-2.4.0-b34.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/hk2-utils-2.4.0-b34.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/javassist-3.18.1-GA.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/javax.annotation-api-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/javax.inject-2.4.0-b34.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/javax.servlet-api-3.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/jaxb-api-2.2.7.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/jersey-guava-2.22.2.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/org.osgi.core-4.2.0.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/osgi-resource-locator-1.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/persistence-api-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/ext/validation-api-1.1.0.Final.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/lib/jersey-client.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/lib/jersey-common.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/lib/jersey-container-servlet.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/lib/jersey-container-servlet-core.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/lib/jersey-media-jaxb.jar"/>
-	<classpathentry kind="lib" path="C:/jaxrs-ri/lib/jersey-server.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/postgres driver/postgresql-9.4.1208.jre6.jar"/>
-	<classpathentry kind="lib" path="C:/Jackson/jackson-all-1.9.0.jar"/>
-	<classpathentry kind="lib" path="C:/Jackson/jackson-annotations-2.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Jackson/jackson-core-2.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Jackson/jackson-databind-2.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Jackson/jackson-jaxrs-base-2.7.3.jar"/>
-	<classpathentry kind="lib" path="C:/Jackson/jackson-jaxrs-json-provider-2.7.3.jar"/>
-	<classpathentry kind="lib" path="C:/Jackson/jackson-module-jaxb-annotations-2.7.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/aopalliance-repackaged-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/asm-debug-all-5.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/hk2-api-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/hk2-locator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/hk2-utils-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jackson-core-2.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jackson-databind-2.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jackson-jaxrs-base-2.7.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jackson-jaxrs-json-provider-2.7.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jackson-module-jaxb-annotations-2.7.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/javax.inject-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jersey-client.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jersey-common.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jersey-guava-2.22.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/jersey-server.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/postgresql-9.4.1208.jre6.jar"/>
+	<classpathentry kind="lib" path="E:/Jersey/validation-api-1.1.0.Final.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
